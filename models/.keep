@@ -7,8 +7,6 @@ import logging
 import matplotlib.pyplot as plt
 import seaborn as sns
 import mplcyberpunk
-%config InlineBackend.figure_formats = ['svg']
-
 # ML Modeling
 from sklearn.metrics import precision_recall_fscore_support,confusion_matrix
 from sklearn.model_selection import train_test_split
@@ -22,4 +20,5 @@ import pickle
 
 
 df = pd.read_csv('../Final_Project/data.csv', delimiter=',', encoding='utf-8')
+
 
