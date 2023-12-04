@@ -22,3 +22,4 @@ import pickle
 
 
 df = pd.read_csv('../Final_Project/data.csv', delimiter=',', encoding='utf-8')
+
