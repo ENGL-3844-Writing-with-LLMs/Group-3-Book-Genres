@@ -16,15 +16,29 @@ to determine the genre of a book. It utilizes the logistic regression ML techniq
     |__ data.csv
 |__ figures
     |__ .keep
-    |__ sum-title-counts-heatmap.png
-    |__ sum-title-heatmap.png
+    |__ confusion_matrix_sum_title.png
+    |__ confusion_matric_summary.png
+    |__ confusion_matrix_title.png
+    |__ length_of_sum_title_vs_accuracy.png
+    |__ length_of_summary_vs_accuracy.png
+    |__ length_of_title_vs_accuracy.png
+    |__ prediction_distribution_sum_title.png
+    |__ prediction_distribution_summary.png
+    |__ prediction_distribution_title.png
 |__ models
     |__ .keep
-    |__ Model.ipynb
-    |__ trained-model-2.pkl
-|__ EDA.ipynb
-|__ ml-project-name-here.ipynb
-|__ model-card.pdf
+    |__ Model_Revised.ipynb
+    |__ book_genre_model_tfidf_sum_title.pkl
+    |__ book_genre_model_tfidf_summary.pkl
+    |__ book_genre_model_tfidf_title.pkl
+    |__ book_genre_transformer_tfidf_sum_title.pkl
+    |__ book_genre_transformer_tfidf_summary.pkl
+    |__ book_genre_transformer_tfidf_title.pkl
+|__ EDA_Revised.ipynb
+|__ Data Sheet.pdf
+|__ Model Card.pdf
+|__ Team Reflection Memo.pdf
+|__ dataset-brainstorming.docx
 |__ reflective-memo.pdf
 |__ README.md
 ```
