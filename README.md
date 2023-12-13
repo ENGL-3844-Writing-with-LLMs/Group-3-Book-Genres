@@ -39,6 +39,5 @@ to determine the genre of a book. It utilizes the logistic regression ML techniq
 |__ Model Card.pdf
 |__ Team Reflection Memo.pdf
 |__ dataset-brainstorming.docx
-|__ reflective-memo.pdf
 |__ README.md
 ```
